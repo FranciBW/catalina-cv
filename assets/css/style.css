@@ -1,1 +1,14 @@
-/*Estilozsz*/
+@font-face {
+    font-family: "Raleway";
+    src: url("../css/fonts/Raleway/static/Raleway-Light.ttf");
+}
+@font-face {
+    font-family: "Raleway";
+    src: url("../css/fonts/Raleway/static/Raleway-Medium.ttf");
+}
+
+body{
+    font-family: "Raleway Medium";
+    
+}
+
