@@ -9,7 +9,12 @@
 
 body{
     font-family: "Raleway Medium";
-    
+    background-color: #333;
+    color: #fff;
+}
+
+header{
+    margin-bottom: 20px;
 }
 
 main p{
